@@ -1,0 +1,13 @@
+{
+  "name": "@fullsparklabs/git-undo",
+  "version": "1.0.0",
+  "description": "Undo git commits, pushes, merges with confirmations",
+  "main": "index.js",
+  "bin": {
+    "git-undo": "./index.js"
+  },
+  "type": "commonjs",
+  "repository": "https://github.com/Fullspark-Labs/git-undo",
+  "keywords": ["git", "undo", "cli"],
+  "license": "MIT"
+}
